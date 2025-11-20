@@ -8,7 +8,7 @@ const FloralBackground: React.FC<FloralBackgroundProps> = ({ children }) => {
   return (
     <div className="relative w-full min-h-screen flex flex-col">
       {/* Top Floral Border (Image Simulation) */}
-      <div className="absolute top-0 left-0 w-full h-64 md:h-96 overflow-hidden z-0 pointer-events-none">
+      <div className="absolute top-0 left-0 w-full h-64 md:h-48 overflow-hidden z-0 pointer-events-none">
         <img 
           src="/borda-abaixo.jpg" 
           alt="Purple Flowers Top"
@@ -23,7 +23,7 @@ const FloralBackground: React.FC<FloralBackgroundProps> = ({ children }) => {
       </div>
 
       {/* Bottom Floral Border */}
-      <div className="absolute bottom-8 left-0 w-full h-64 md:h-96 overflow-hidden z-0 pointer-events-none">
+      <div className="absolute bottom-8 left-0 w-full h-64 md:h-48 overflow-hidden z-0 pointer-events-none">
         <img 
            src="/borda-abaixo.jpg" 
            alt="Purple Flowers Bottom"
