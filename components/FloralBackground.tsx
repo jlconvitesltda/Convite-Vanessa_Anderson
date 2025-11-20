@@ -23,7 +23,7 @@ const FloralBackground: React.FC<FloralBackgroundProps> = ({ children }) => {
       </div>
 
       {/* Bottom Floral Border */}
-      <div className="absolute bottom-0 left-0 w-full h-32 md:h-48 overflow-hidden z-0 pointer-events-none">
+      <div className="absolute bottom-8 left-0 w-full h-32 md:h-48 overflow-hidden z-0 pointer-events-none">
         <img 
            src="/borda-abaixo.jpg" 
            alt="Purple Flowers Bottom"
