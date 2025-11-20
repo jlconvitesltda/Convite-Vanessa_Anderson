@@ -25,7 +25,7 @@ const FloralBackground: React.FC<FloralBackgroundProps> = ({ children }) => {
       {/* Bottom Floral Border */}
       <div className="absolute bottom-0 left-0 w-full h-32 md:h-48 overflow-hidden z-0 pointer-events-none">
         <img 
-           src="https://br.freepik.com/vetores-gratis/fundo-de-borda-floral-roxo-aquarela_41061825.htm#fromView=search&page=1&position=0&uuid=06288a7c-92d7-4b9e-896a-9191f174b1c1&query=flores+roxas" 
+           src="/borda-abaixo.jpg" 
            alt="Purple Flowers Bottom"
            className="w-full h-full object-cover opacity-80"
         />
