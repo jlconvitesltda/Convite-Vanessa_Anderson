@@ -10,7 +10,7 @@ const FloralBackground: React.FC<FloralBackgroundProps> = ({ children }) => {
       {/* Top Floral Border (Image Simulation) */}
       <div className="absolute top-0 left-0 w-full h-32 md:h-48 overflow-hidden z-0 pointer-events-none">
         <img 
-          src="https://images.unsplash.com/photo-1560749504-e4230447f309?q=80&w=2000&auto=format&fit=crop" 
+          src="/borda-abaixo.jpg" 
           alt="Purple Flowers Top"
           className="w-full h-full object-cover opacity-80 rotate-180"
         />
