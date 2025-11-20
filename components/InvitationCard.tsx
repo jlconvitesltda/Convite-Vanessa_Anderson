@@ -17,7 +17,7 @@ const InvitationCard: React.FC<InvitationCardProps> = ({ onNavigateToPix }) => {
               Exemplo: src="/foto-casal.jpg" (após colocar o arquivo na pasta public)
            */}
            <img 
-             src="https://placehold.co/600x600/e9d5ff/6b21a8?text=Foto+do+Casal+(Substituir)" 
+             src="/imagens/foto-casal.jpg" 
              alt="Vanessa e Anderson"
              className="w-full h-full object-cover"
            />
