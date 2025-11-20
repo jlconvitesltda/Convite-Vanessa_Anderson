@@ -42,7 +42,7 @@ const PixPage: React.FC<PixPageProps> = ({ onBack }) => {
         <div className="mb-8 flex justify-center">
             {/* Using a stylized gift image or high quality 3D render placeholder */}
             <img 
-                src="/presente.jfif" 
+                src="/presente.jpg" 
                 alt="Caixa de Presente" 
                 className="w-32 h-32 object-contain drop-shadow-xl animate-bounce-slow" 
             />
