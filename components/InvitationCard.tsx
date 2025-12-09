@@ -78,7 +78,7 @@ const InvitationCard: React.FC<InvitationCardProps> = ({ onNavigateToPix }) => {
                 <div className="w-12 h-12 md:w-16 md:h-16 bg-purple-600 rounded-2xl flex items-center justify-center shadow-lg group-hover:bg-purple-700 transition-colors mb-2 md:mb-3">
                     <Gift className="text-white w-6 h-6 md:w-8 md:h-8" />
                 </div>
-                <span className="text-purple-900 font-bold text-[10px] md:text-sm uppercase tracking-wide leading-tight">Presente<br/>via Pix</span>
+                <span className="text-purple-900 font-bold text-[10px] md:text-sm uppercase tracking-wide leading-tight">Formas de<br/>presentear</span>
             </button>
 
         </div>
