@@ -28,8 +28,7 @@ const PixPage: React.FC<PixPageProps> = ({ onBack }) => {
             <ArrowLeft className="w-6 h-6" />
         </button>
         
-        <div className="border-t border-purple-200 w-full mb-4"></div>
-
+        
         {/* ---------------------------------- */}
         {/* SECTION 1: PIX GIFT */}
         {/* ---------------------------------- */}
