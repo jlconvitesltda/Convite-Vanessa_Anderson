@@ -27,10 +27,7 @@ const PixPage: React.FC<PixPageProps> = ({ onBack }) => {
         >
             <ArrowLeft className="w-6 h-6" />
         </button>
-
-        <h1 className="font-cursive text-5xl text-purple-600 mb-6 mt-2">Nossas Opções de Presente</h1>
-
-        {/* Separator */}
+        
         <div className="border-t border-purple-200 w-full mb-4"></div>
 
         {/* ---------------------------------- */}
