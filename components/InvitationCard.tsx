@@ -83,7 +83,9 @@ const InvitationCard: React.FC<InvitationCardProps> = ({ onNavigateToPix }) => {
 
         </div>
         
-        <p className="mt-8 text-xs text-purple-400">Clique nos ícones para acessar</p>Desenvolvido por JL Convites 11 92013-5955</p>
+        <p className="mt-8 text-xs text-purple-400">Clique nos ícones para acessar</p>
+        <p></p>
+        <p className="mt-1 text-xs text-purple-400">Desenvolvido por JL Convites 11 92013-5955</p>
       </div>
     </div>
   );
